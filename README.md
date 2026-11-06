@@ -22,5 +22,5 @@ Desenvolvedor de software apaixonado por construir produtos úteis e bem feitos.
 
 ## 📫 Contato
 - GitHub: [@Andre-Amaro](https://github.com/Andre-Amaro)
-- LinkedIn: .[@andreluisfranca](https://www.linkedin.com/in/andreluisfranca/).
-- E-mail: andrelamarofranca@gmail.com
+- LinkedIn: [@andreluisfranca](https://www.linkedin.com/in/andreluisfranca/)
+- E-mail: [@andrelamarofranca](andrelamarofranca@gmail.com)
